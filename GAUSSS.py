@@ -39,7 +39,6 @@ for j in range(columnas-1,0,-1):
             S.append(G[i][columnas]-G[i][j]*X[j])
         S[filas-1-i]
 print()(G)
-        
-    
+"""hola"""
 
 
