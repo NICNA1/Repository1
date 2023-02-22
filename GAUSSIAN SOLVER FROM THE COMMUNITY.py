@@ -5,7 +5,7 @@ Gaussian elimination - https://en.wikipedia.org/wiki/Gaussian_elimination
 
 
 import numpy as np
-
+#nico es tonto
 
 def retroactive_resolution(coefficients: np.matrix, vector: np.ndarray) -> np.ndarray:
     """
