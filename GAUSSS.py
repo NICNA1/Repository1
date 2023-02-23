@@ -40,6 +40,6 @@ for j in range(columnas-1,0,-1):
         S[filas-1-i]
 print()(G)
         
-    
+    HOLA
 
 
